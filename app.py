@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
 # >>> CHANGE THIS to your full registration number <<<
-REGISTRATION = "YOUR-REG-NUMBER"
+REGISTRATION = "FA23-BDS-006"
 NEWSSOURCE = "The Nation Pakistan"
 ARTICLE_RE = re.compile(r"^https?://(www\.)?nation\.com\.pk/\d{1,2}-[A-Za-z]{3}-\d{4}/[^?#\s]+")
 
